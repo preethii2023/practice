@@ -1,5 +1,3 @@
-# practice
-1st task
 #!/bin/bash
 
 # Function to calculate total CPU usage
