@@ -1,3 +1,4 @@
+project URL https://roadmap.sh/projects/server-stats
 #!/bin/bash
 
 # Function to calculate total CPU usage
